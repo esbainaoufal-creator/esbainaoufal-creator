@@ -6,15 +6,14 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=6C63FF&center=true&vCenter=true&width=480&lines=I+code+because+I+enjoy+it.;Building+toward+something+real.;Designer+who+writes+code.+Or+coder+who+draws.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=6C63FF&center=true&vCenter=true&width=400&lines=Nothing.+Becoming+somebody.)
 
 </div>
 
 ---
 
-I'm a self-taught developer from Morocco. I started coding because I genuinely enjoy it — not for a certificate or a deadline. Right now I'm building my skills across the full stack. The goal is to build an AI company one day. Not a vague dream — an actual plan I'm working toward.
-
-Outside of code I draw, and I try everything at least once.
+Self-taught. Morocco. I code, I draw, I try everything.
+Building toward an AI company — not a plan on paper, something I'm actually working on.
 
 ---
 
@@ -32,13 +31,7 @@ Outside of code I draw, and I try everything at least once.
 
 ### Projects
 
-| | |
-|---|---|
-| 🔒 | *in progress* |
-| 🔒 | *in progress* |
-| 🔒 | *coming soon* |
-
-> I ship when it's ready.
+> Coming.
 
 ---
 
@@ -53,10 +46,6 @@ Outside of code I draw, and I try everything at least once.
 </div>
 
 ---
-
-<div align="center">
-<sub>still building · always learning · never stopping</sub>
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d0d0d&height=100&section=footer" />
